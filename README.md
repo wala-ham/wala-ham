@@ -1,8 +1,8 @@
 <h1 align="center"> Hi 👋, I'm Wala Hammemi </h1>
 <p align="center"><b> A passionate Software Engineer from Tunisia </b></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=wala-ham&label=Profile%20views&color=0e75b6&style=flat" alt="wala-ham" /> </p>
 
 ## 📟 GitHub Stats 🔝
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=wala-ham&label=Profile%20views&color=0e75b6&style=flat" alt="wala-ham" /> </p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wala-ham&show_icons=true&locale=en" alt="wala-ham" />
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wala-ham&" alt="wala-ham" />
 </p>
@@ -21,6 +21,6 @@
 ## ✨ Connect with me:
  - Reach me out on LinkedIn: <img src="https://linkedin.com/in/wala hammemi?style=for-the-badge&logo=linkedin&logoColor=white" />                   
 
-
+ <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />                   
 
 
