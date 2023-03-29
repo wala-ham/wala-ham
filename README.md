@@ -3,7 +3,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wala-ham&label=Profile%20views&color=0e75b6&style=flat" alt="wala-ham" /> </p>
 
 ## 📟 GitHub Stats 🔝
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wala-ham&show_icons=true&locale=en" alt="wala-ham" />
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=wala-ham&show_icons=true&locale=en" alt="wala-ham" />
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wala-ham&" alt="wala-ham" />
 </p>
 
